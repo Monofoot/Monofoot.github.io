@@ -8,4 +8,4 @@ A list of categorised projects which I've created both in my spare time for lear
 ## Games Developmens ##
 
 ## Web Development
-Yes, web development. Me and a friend went through a stage of our lives where we started a freelancing business for local businesses. It's not live anymore (web development was never **the plan**), but the archived page is still hosted.
+Yes, web development. Me and a friend went through a stage of our lives where we started a freelancing company for local businesses. It's not live anymore (web development was never **the plan**), but the archived page is still hosted.
