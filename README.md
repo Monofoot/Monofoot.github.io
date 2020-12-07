@@ -4,6 +4,11 @@ A list of categorised projects which I've created both in my spare time for lear
 ## Data Science ##
 
 ## Academic Projects ##
+**Multiword Paraphrasing using Back-translation**
+This was my Master's dissertation which involved analysing several sentence scoring metrics against news titles which had been back-translated. I'm really happy with how it went, as it was my first real foray into ML. There's lots of room for improvement, but I'm satisfied with it as a first.
+
+[Multiword Paraphrasing for Automated Digital Content Management](https://github.com/Monofoot/Multiword-Paraphrasing-for-Automated-Digital-Content-Management)
+
 
 ## Games Developmens ##
 
