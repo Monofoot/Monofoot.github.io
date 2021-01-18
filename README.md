@@ -16,3 +16,6 @@ This was my Master's dissertation which involved analysing several sentence scor
 
 ## Web Development
 Yes, web development. Me and a friend went through a stage of our lives where we started a freelancing company for local businesses. It's not live anymore (web development was never **the plan**), but the archived page is still hosted.
+
+## C++ ##
+[Sorting Algorithms Visualized Using SDL2](https://github.com/Monofoot/data-structures-and-algorithms)
